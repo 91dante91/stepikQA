@@ -3,6 +3,7 @@ from selenium.webdriver.chrome.service import Service
 from selenium.webdriver.common.by import By
 import time
 
+
 CHROME_DRIVER_PATH = "C:\Development\chromedriver.exe"
 service = Service(CHROME_DRIVER_PATH)
 
